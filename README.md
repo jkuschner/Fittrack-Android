@@ -14,20 +14,23 @@ FitTrack is a fitness compainion build with Jetpack Compose and Firebase. It all
 ## Screenshots
 
 ### Login Screen
-
+![](./screenshots/login_screen.png)
 ### Sign Up Screen
-
+![](./screenshots/sign_up_screen.png)
 ### Dashboard Screen
-
+![](./screenshots/dashboard_screen.png)
 ### Profile Screen
-
+![](./screenshots/profile_screen.png)
 ### Workouts List Screen
-
+![](./screenshots/workouts_list_screen.png)
 ### Workout Details Screen
-
+![](./screenshots/workout_details_screen.png)
 ### Add Workout Screen
-
+![](./screenshots/add_workout_screen.png)
 ### Add Exercise Screen
+![](./screenshots/add_exercise_screen.png)
+## Demo Video Link
+[Click here to see the video!](https://youtu.be/7O7WGTUFK3I)
 
 ## Project Setup
 1. Clone the repo
